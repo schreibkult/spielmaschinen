@@ -1,5 +1,7 @@
 Projektinfo.md
 
+Online-Repositoriy (git): https://bitbucket.org/metageist/spielmaschinen
+
 Stand: September 2018
 
 Alle alten Dateien zum Projekt algorithmische Medien und spielende Maschinen sind im Ordner Habi-Habi-Projekt oder in Dropbox/emacs gespeichert.
