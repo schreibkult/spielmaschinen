@@ -1,6 +1,7 @@
 Projektinfo.md
 
-Online-Repositoriy (git): https://bitbucket.org/metageist/spielmaschinen
+Online-Repositoriy (git): https://github.com/schreibkult/spielmaschinen
+alt: https://bitbucket.org/metageist/spielmaschinen
 
 Stand: September 2018
 
