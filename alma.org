@@ -1,0 +1,202 @@
+#+TITLE: ALMA - Algorithmische Medien und spielende Maschinen (Abenteuer und Geschichten algorithmischer Kultur) - Schreibprojekt zur Habil
+
+Motto:  "Allein wie viel und mit welcher Richtigkeit würden wir wohl denken, wenn wir nicht gleichsam in Gemeinschaft mit andern, denen wir unsere und die uns ihre Gedanken /mitteilen/, dächten!" (Kant, Wie sich im Denken orientieren?)
+
+Was bleibt noch, wenn das Wissen in die Maschinen externalisiert und dort versammelt ist? Das Denken, sagt Serres.
+
+»Die erfinderische Intelligenz bemisst sich an der Distanz zum Wissen.« (Michel Serres, Erfindet Euch neu!, 34)
+
+»Der Diskurs ist eine Methode, verfügbare Informationen zu verteilen.« (Flusser, Kommunikologie: Diskursmodelle)
+
+»Das Schreiben ist atopisch; in bezug auf den Krieg der Sprachen, den es nicht beseitigt, sondern verlagert, nimmt es Lese- und Schreibpraktiken vorweg, in denen das Begehren zirkuliert und nicht die Herrschaft.«
+(Roland Barthes: Krieg der Sprachen (1973))
+
+** Benjamin, 13 Thesen zum Schreiben
+
+Die Technik des Schriftstellers in dreizehn Thesen
+Von Walter Benjamin
+
+I. Wer an die Niederschrift eines größeren Werks zu gehen beabsichtigt, lasse sich’s wohl sein und gewähre sich nach erledigtem Pensum alles, was die Fortführung nicht beeinträchtigt.
+
+II. Sprich vom Geleisteten, wenn du willst, jedoch lies während des Verlaufes der Arbeit nicht daraus vor. Jede Genugtuung, die du dir hierdurch verschaffst, hemmt dein Tempo. Bei der Befolgung dieses Regimes wird der zunehmende Wunsch nach Mitteilung zuletzt ein Motor der Vollendung.
+
+III. In den Arbeitsumständen suche dem Mittelmaß des Alltags zu entgehen. Halbe Ruhe, von schalen Geräuschen begleitet, entwürdigt. Dagegen vermag die Begleitung einer Etüde oder von Stimmengewirr der Arbeit ebenso bedeutsam zu werden, wie die vernehmliche Stille der Nacht. Schärft diese das innere Ohr, so wird jene zum Prüfstein einer Diktion, deren Fülle selbst die exzentrischen Geräusche in sich begräbt.
+
+IV. Meide beliebiges Handwerkszeug. Pedantisches Beharren bei gewissen Papieren, Federn, Tinten ist von Nutzen. Nicht Luxus, aber Fülle dieser Utensilien ist unerläßlich.
+
+V. Laß dir keinen Gedanken inkognito passieren und führe dein Notizheft so streng wie die Behörde das Fremdenregister.
+
+VI. Mache deine Feder spröde gegen die Eingebung, und sie wird mit der Kraft des Magneten sie an sich ziehen. Je besonnener du mit der Niederschrift eines Einfalls verziehst, desto reifer entfaltet wird er sich dir ausliefern. Die Rede erobert den Gedanken, aber die Schrift beherrscht ihn.
+
+VII. Höre niemals mit Schreiben auf, weil dir nichts mehr einfällt. Es ist ein Gebot der literarischen Ehre, nur dann abzubrechen, wenn ein Termin (eine Mahlzeit, eine Verabredung) einzuhalten oder das Werk beendet ist.
+
+VIII. Das Aussetzen der Eingebung fülle aus mit der sauberen Abschrift des Geleisteten. Die Intuition wird darüber erwachen.
+# Immer wieder abschriften des notierten anfertigen. das ist eine kluge sache, denn es filtert und verfeinert. es reflektiert, mit den händen.
+IX. Nulla dies sine linea – wohl aber Wochen.
+
+X. Betrachte niemals ein Werk als vollkommen, über dem du nicht einmal vom Abend bis zum hellen Tage gesessen hast.
+
+XI. Den Abschluß des Werkes schreibe nicht im gewohnten Arbeitsraume nieder. Du würdest den Mut dazu in ihm nicht finden.
+
+XII. Stufen der Abfassung: Gedanke – Stil – Schrift. Es ist der Sinn der Reinschrift, daß in ihrer Fixierung die Aufmerksamkeit nur mehr der Kalligraphie gilt. Der Gedanke tötet die Eingebung, der Stil fesselt den Gedanken, die Schrift entlohnt den Stil.
+
+XIII. Das Werk ist die Totenmaske der Konzeption.
+
+
+** Vorüberlegungen zum Schreiben:
+Ich brauche natürlich eine Gliederung. Ein Thema. Ideen dazu, wie ich das Thema über mehrere Stationen, theoretisch und analytisch entfalte. Manches Theoriegetrieben, manches Gegenstandsorientiert.
+
+Vorüberlegungen zur Ordnung der Textproduktion:
+Viele Teilideen sind im Dokument »algorithmedien.org« bereits formuliert.
+Die Ordner emacs und »Habi-Habi-Projekt« sowie »Habi-Habi-Medienmaterial« enthalten alle meine Unterlagen zum Projekt. 
+»Habi-Habi-Medienmaterial« ist separat außerhalb der Dropbox, weil er mehr Platz brauchen wird. Er enthält Bilder, Videos und ähnliches, die für das Projekt gebraucht werden.
+
+Gliederungsüberlegungen - sind schon vorhanden, ohne klares Ergebnis.
+Sinnvoll ist ein Rückgriff auf bestehende Arbeiten aus den letzen 3-4 Jahren.
+
+*Artikel:*
+
+- Fallstudie Gefangenendilemma - 
+Von der Matrix zum Milieu. Zur Transformation des Entscheidungsbegriffs zwischen homo oeconomicus und evolutionärer Auslese. In: Conradi, Tobias/ Hoof, Florian u.a. (Hrsg.): Medien der Entscheidung. Münster u.a. 2016: LIT, Reihe Medien'Welten (im Druck).
+
+Niemandes Spiel? Zur Aufteilung des Spielbegriffs oder: Die Schwierigkeit, die spielende Maschine zu denken. In: Deuber-Mankowsky, Astrid/ Görling, Reinhold (Hrsg.): Denkweisen des Spiels. Wien u.a.: Turia + Kant 2016, S. 155-170.
+
+Befreites Wissen. Academia.edu und die Zählbarkeit von Wissenschaft (gemeinsam mit Tobias Conradi). In: zfm. Zeitschrift für Medienwissenschaft 14 (Medienökologien), 1/2016, S. 151‑155.
+
+Dildoplay und Sharing Porno – Vine und die sexuelle Revolution 2.0. In: Hüls, Christian/ Lettenewitch, Natalie/ Zechner, Anke (Hrsg.): Die Körper des Kinos. Für eine fröhliche Filmwissenschaft. Frankfurt a.M., Basel 2015: Stroemfeld, S. 276-290.
+
+- Fallstudie Schach - 
+Strategiespiele und das Medium-Werden des Computers. Computerschach als Faktor der Rekonzeptionalisierung des Computers als programmierbare Maschine zwischen 1945 und 1960. In: Böhme, Stefan/ Nohr, Rolf F./ Wiemer, S. (Hrsg.): Diskurse des strategischen Spiels Medialität, Gouvernementalität, Topografie. Münster u.a. 2015: LIT, Reihe Medien'Welten, S. 83‑112.
+
+- Fallstudie Game of Life - 
+Rewriting the Matrix of Life. Biomedia Between Ecological Crisis and Playful Actions (gemeinsam mit Christoph Neubert). In: Vagt, Christina/ Sprenger, Florian (Hrsg.): Afterlife of systems. communication+1, Volume 3, 2014. 
+
+Vorträge:
+Game of Life (GfM2015)
+Algorithmen & Arbeit (GfM2016)
+Schachtürke
+Glitch & Affekt
+Erinnerung und Subjektivierung in Facebooks Timeline-Video (Bochum, Juniorprof)
+
+
+** 11. April
+Ich habe mir über die Gliederung Gedanken gemacht. Glitch stand schon einmal ganz vorne, als erste Fallstudie! Das passt mir wunderbar.
+Die bestehenden Gliederungen sehen auch gar nicht so dumm aus wie befürchtet. Die Arbeit beginnt am besten mit einer längeren »Einleitung« und einer Darstellung vielleicht derjenigen Aspekte, die ich auch im Artikel zu »Perspektiven zu algorithmische Medien/algorithmische Kultur - Perspektiven für die Medienwissenschaft« ausarbeiten will.
+Dann folgt Glitch als erste Fallstudie.
+Ich positioniere mich mit meiner Arbeit an der Schnittstelle von Medienkulturtheorie und Medienphilosophie. Mir geht es also immer um eine medienkulturwissenschaftliche Perspektive auf Algorithmen!
+Natürlich gehören Medientechnik, Mathematik, Erkenntnistheorie etc. dazu - aber all dies verstehe ich als Elemente einer medienkultur.
+Im Fall von Algorithmen erfüllen Medien tatsächlich im Wortsinne »Vermittler«-Funktion. Sie vermitteln zwischen mathematischen Ideen, Vorgängen, Formen, Funktionen, Modellen etc. und einer sozialen und sinnlichen Konkretisierung dieser Ideen als eigentständige algorithmische Praxen und Phänomene.
+Der Aspekt der Versinnlichung interessiert mich besonders, da ich (und da folge ich grob der Tradition von Benjamin) Medien als Wahrnehmungsstrukturierende Kräfte verstehe. Darum ist eine der Ausgangsfragen für mich auch genau die, wie Algorithmen unsere Wahrnehmung verändern. - und unsere Erkenntnis.
+Mit »uns« meine ich die algorithmische Kultur der Gegenwart. Algorithmen haben eine besondere Funktion im informatorischen Kapitalismus. Darauf möchte ich eingehen mit Überlegungen zu algorithmischer Arbeit; Cubitt, etc.
+Darüber hinaus sind aber auch medienanthropologische Überlegungen anzustellen. Denn Algorithmen sind älter als der Kapitalismus, mindestens so alt wie der Staat (Ägypten)! Menschliche Kultur kenn überall Regeln und deren Formalisierung. Algorithmen sind darum nicht zuvorderst als etwas modernes, technisches oder auf den Computer bezogenes zu verstehen. Vielmehr ist die explosion von Algorithmen in Politik, Staat, Technik, Alltagskultur zwar auf die Vermittlung und die Verbreitung des Computers bezogen. Die Geschichte der Verschränkung von Kultur, Ökonomie, Staat und Algorithmen ist jedoch viel Älter. Neben Agypten wäre auf Marks hinzuweisen. Eine Kulturgeschichte der Algorithmen für Staat, Kunst und Wissen, für »Kultur« ist meines Wissens bis heute noch nicht vorgelegt worden. 
+Sie wäre einmal zu schreiben. Sie zu schreiben wäre notwendig, um eine falsche Priorisierung des westlichen Kapitalismus auf Algorithmen zu korrigieren. Marks hat hier wichtige Vorarbeiten geleistet, um die arabische Kultur mit in den Blick zu nehmen. 
+
+Das eigene Projekt ist jedoch keine Kulturgeschichte, sondern eine Arbeit zum Verständnis einer algorithmischen Medienkultur entlang von Spiel, Erkenntnis und Leben. Es geht mir um die gegenwärtige Medienkultur, entlang von Einzelphänomenen und theoretischen »Probebohrungen« (Gruß an Rolf Nohr, von dem ich viel gelernt habe, was den offenen Umgang mit der Limitierung der Reichweite der eigenen Überlegungen anbelangt. Ein Phänomen der Wirklichkeit ist immer komplexer als jede Theorie und theoretische niche vollständig auszuschöpfen. Wissenschaft bleibt immer Provisorium. Feststehende Erkenntnisse, die nicht veränderbar, revidierbar oder ergänzungbedürftig sind, kennen nur die Religion und der Dogmatismus, nicht aber die Wissenschaft.)
+
+** 07.Mai 2017
+Auf der Tagung in Kiel kamen mir viele Ideen zu Theorie. 
+Bei der Ausarbeitung des Vortrags wurd emir klar, warum es aktuell überhaupt ein Bedürfnis nach New Materialism und solchen Ansätzen wie Barad gibt, nämlich theoriegeschichtlich. 
+Inspiriert wurde ich dazu durch den Artikel von Neubert zur Störung, worin Christoph eine Theorieentwicklung von Informationstheorie - Kybernetik - Kittler - ANT nachzeichnet.
+Meine theoriegeschichtliche Idee war eher Materialismus - Strukturalismus - Diskurstheorie - Gender/Medientheorie - ANT - New Materialism –> materiale Praxen, Kulturtechnik - technosemiotische Netzwerke
+Eine Leitidee war die der unterschiedlichen Konzeption von »Referenz« hin zur »Produktion von Referenz« und Produktion von Materialität und Phänomenen durch materielle Praxen. 
+Der Vortrag von Eikelmann hat mir den Ansatz des New Materialism und der Diffraktion klarer gemacht. Ich möchte sie daher um ihr Skript bitten! (sie hat es geschickt am Montag, 08. Mai! toll. Sie ist aufgeweckter und besser aufgeräumt als ich ...)
+
+** 08. Juni 2017
+Ich kann mir keine bessere Schreibumgebung wünschen als Emacs, wo es sogar
+die Möglichkeit gibt, fast wie bei einer Schreibmaschine ein akustisches
+Feedback zu bekommen und die kleinen Belohnungen, die es für das Erreichen
+eines Zeilenendes gibt.
+Das geht nicht. Warum? Ich kann es immer noch nicht sehen. Aber vielleicht
+kommt das ja gleich noch?
+Nö, ich seh es nicht. - Doch, es geht. Ich habe die Standardschrift nun auf FreeMono umgestellt. Die benutze ich auch in Pyroom. Beides sollte also austauschbar sein.
+Als Minor-Mode kann ich hier außerdem noch selectric-mode für Schreibmaschinen-Feeling und Draft-Mode für konzentriertes lineares Schreiben aktivieren.
+
+Den Zeilenabstand habe ich in der config-datei .emacs mit line-spacing auf 1,5 Zeilen gestellt.
+
+Ich habe mich angemeldet für ein Nanowrimo-Camp im Juli. Ziel: 25.000 Wörter (http://campnanowrimo.org/novels/alma-geschichten-algorithmischer-kultur/edit)
+Name: Serge_Kant Passw: pacpac25
+
+
+* Einleitung
+Worum es mir in dieser Arbeit geht
+medienanthropologische Grundierung
+Wahrnehmung, Ästhetik, Erkenntnis
+Forschungsskizze(!) - Algorithmische Medien und spielende Maschinen
+
+Was sind, was meint Algorithmen? - Stand der Forschung
+
+Aufbau - Geschichten spielender Maschinen; 
+
+
+* Glitch - Störung als Versinnlichung und Kritik algorithmischer Prozesse  :Kollektive:Störung:Öffnung:Software_Philosophie:Protokolle:Codecs:
+Theorie(n) der Störung
+Fallbeispiel algorithmisches Bild
+Mp3
+Databending
+Kontingenz, Unerwartetes, Kontrollverlust, Leben, Affekt, Kritik
+Astronaut Glenn, 1965
+Grace Hopper, 1950
+Motorola, 2010
+1000 Video-Rooms, 2010
+
+
+* Theorievertiefung (Affekte; Leben als aufscheinende Störung im Digitalen; Sichtbarmachung algorithmischer Prozesse) 
+
+# Bitte beachten: digital-labor_exzerpt.org_archive - Galloway, Chun, Kittler, Problem Hardware/Software etc.
+
+# Bitte beachten: technikphilosophie-spiel-arbeit.org 
+
+# Bitte beachten: ideen_Softwaretheorie.txt im Ordner Habi-Habi.
+
+
+* Gefangenendilemma - Spiele mit und jenseits des Menschen. :Leben:Biologie:Konflikt:Population:Evolution:
+Effekte algorithmischer Modellierung für die Konzeption von Entscheidungssubjekten im Schnittfeld von Spieltheorie, Ökononomie, Soziologie und Soziobiologie
+# Zusätzlich als Quelle Tuschling zu Lacans Verwendung des Gefangenendilemmas?
+
+
+* Theorievertiefung (Soziobiologischens Paradigma; Kollektive, Gesellschaft und Populationen; Politik)
+
+
+* Schach :spielende_Maschine:Arbeit:Software_Geschichte:Software_Philosophie:
+Schachtürke
+Turing und Shannon (medienanthropologische Verunsicherung; Software-Geschichte; Computergeschichte)
+# Shannon: Ultimate Machine oder auch: The most beautiful machine. Die Maschine, die sich selbst wieder ausschaltet. Juggling. Vergleich Spielmaschinen und spielende Maschinen bei Shannon? Quelle dazu in Zotero: Roch, Axel: Claude E. Shannon: Spielzeug, Leben und die geheime Geschichte seiner Theorie der Information, Berlin: gegenstalt Verl. 2009.
+
+MTurk (Algorithmische Arbeit & Algorithmische Kollektive)
+10.000 Cents, 2008 (Koblin & Kawashima)
+
+
+* Theorievertiefung (algorithmische Arbeit)
+
+
+* Game of Life :Leben:Biologie:Evolution:Ressourcenkampf:Software_Philosophie:
+Digitales Leben und Zellpopulation (Conway, Langton, A-Life)
+Maschinenevolution (von Neumann; Parikka)
+Subpixel, Processing (Software als kollektive Praxis):
+Glitch-Sequencer
+
+
+* Theorievertiefung (Paradigma Spiel; algorithmus und medienhistorischer Sinn; Allegorithmus)
+
+
+* Final Glitch (Goto Start) :Kollektive:Störung:Öffnung:
+Chesspiece, 1968 (Cage/Duchamp)
+Soundatome, 2004 (Karlheinz Essel: Uluru)
+Ewolverine, 2015 (Henry Dalcke)
+M-Base, 1984 (Steve Coleman)
+Bicycle Built for Two Thousand, 2009 (Koblin & Massey)
+
+The Great Learning, 1971 (Cornelius Cardew & The Scratch Orchestra: Paragraph 7)
+
+
+* Schluss 
+
+* Ideen
+** IDEE Performance-Kunst Allan Kaprow
+Stichwort: Algorithmen als Handlungsanweisungen
+
+- Birgit Schneider in ihrem Vortrag in Paderborn: Sie zeigte Beispiele aus der Happening- und Performancekunst. George Brecht? Kaplan? Ein Buch von *Allan Kaprow*
+ (?) aus den 1960er Jahren war da evtl. die Grundlage. Happening Anweisungen funktionieren algorithmisch im Sinne von Handlungsanweisungen in einer festgelegten Reihenfolge
+
+Ein direkter Gewinn für mich ist der Verweis auf Happening. Dazu passend ist nicht nur die Kompositionstechnik von Cage, sondern auch das britische Musikstück, mit dem ich mich beschäftigen möchte. Generative Musik und kollektive Stimmen (Cornelius Cardew & The Scratch Orchestra - Paragraph 7, 1971)
+Dazu habe ich noch fast nichts. Aber konzeptionell gehört es für mich dazu. In Zotero sind lediglich ein Video mit Brian Eno und darin ein Link auf die Youtube-Aufzeichnung einer Performance zu »Paragraph 7«. Vermutlich müsste ich über den Komponisten, Cornelius Cardew die Recherche dazu starten. Das Stück ist aus seiner »maoistischen Phase« aus der Reihe »The Great Learning«, bei der es unter anderem den Ansatz gab, vom Publikum und den Performern zu lernen, und die Arbeit des Komponisten nicht als originär zu betrachten. 
