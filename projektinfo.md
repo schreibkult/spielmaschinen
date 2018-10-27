@@ -15,10 +15,14 @@ um sie dann hier zu bearbeiten.
 Die Hauptdatei ist zunächst
 alma.org (die Hauptdatei des Projekts!)
 
+Die zentrale Sekundärdatei sollte almaref.org sein.
+(näheres dazu in meiner schreibtipps.org)
+almaref.org enthält die Gliederung(en), Konzeptionen einzelner Argumente und Kapitel, etc.
+
 Daneben sind in Emacs wichtige Basis-Dateien vorhanden:
 notiz.org
 journal.org
-Exzerpte-Fachliteratur.org
+Exzerpte-Fachliteratur.org (Anm: sollte umbenannt werden zu exzerpte.org)
 
 ALTE Emacs-dateien, an denen ich nicht mehr weiterschreibe sind, die aber für ALMA Bedeutung haben:
 algorithmedien.org
